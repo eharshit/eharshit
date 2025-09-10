@@ -1,49 +1,71 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hi, I'm Koustubh Singh 👋  
 
-###
+🎓 B.Tech CSE (Data Science) @ D Y Patil International University  
+📍 Pune, Maharashtra | 💻 Data Science & Analytics Enthusiast  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🚀 About Me  
+I'm a Computer Science student passionate about **Data Science, DSA in Python, and Analytics-driven problem solving**.  
+I enjoy building **dashboards, predictive models, and end-to-end data pipelines** that turn raw data into actionable insights.  
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+## 🛠️ Tech Stack  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+**Languages:** Python, SQL, HTML, CSS  
+**Libraries & Tools:** NumPy, Pandas, Matplotlib, Power BI, Tableau  
+**Databases:** MySQL, SQLite, DuckDB  
+**Developer Tools:** Git, GitHub, VS Code, Figma, Postman, Vercel  
+**Coursework:** Big Data Analytics, DBMS, OS, CN, DSA, Data Mining  
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 💼 Experience  
 
-###
+**Summer Intern @ LawLevelUp (May 2025)**  
+- Built **KPI Dashboard** with real-time + predictive analytics → saved ~5 hrs/week in reporting.  
+- Migrated reports from Excel → Power BI/Tableau (cut update time by 40%).  
+- Analyzed **10K+ enrollments** → boosted learner engagement by 20%.  
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 📊 Projects  
 
-###
+### 🔹 End-to-End Vendor Insights (Apr – May 2025)  
+- Built **Python + SQL pipeline** to merge multi-source CSVs into DB.  
+- Designed **Power BI dashboard** for sales, pricing issues, and stuck inventory.  
+- Identified low-performing vendors → improved profit margins.  
+
+### 🔹 LaLiga Prediction Analytics (Jun – Jul 2025)  
+- Scraped & cleaned **11 seasons of La Liga data**.  
+- Trained **Random Forest model** with 86.16% accuracy on champion predictions.  
+- Visualized club dominance & win odds trends.  
+
+### 🔹 E-commerce Analytics with DuckDB (Jul – Aug 2025)  
+- Queried **100K+ rows** in CSV/Parquet with DuckDB.  
+- Found **revenue trends, top products, high-sales regions**.  
+- Reduced query time from minutes → seconds.  
+
+---
+
+## 📜 Certifications  
+- **IBM Data Analyst Professional Certificate (Coursera, Apr–Aug 2025)**  
+
+---
+
+## 🏆 Achievements  
+- 🥇 **Best Innovation Award** – Smart India Hackathon (Internal round, Sep 2024)  
+- 🏅 **Finalist** – Sheryians Reimagine Hackathon (Jun 2024)  
+
+---
+
+## 🌐 Connect With Me  
+
+- 📧 Email: [hrshit.dev@gmail.com](mailto:hrshit.dev@gmail.com)  
+- 💼 [LinkedIn](#)  
+- 💻 [GitHub](#)  
+- 🌍 [Portfolio](#)  
+
+---
+⭐️ From [Koustubh Singh](#)
