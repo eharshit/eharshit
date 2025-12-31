@@ -51,3 +51,6 @@ I'm a final-year **Computer Science (Data Science)** undergraduate. I specialize
 </p>
 
 
+<br><p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eharshit" alt="visitors"/>
+</p>
